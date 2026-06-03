@@ -1,6 +1,0 @@
-
-✓ Escaneo completo
-  Archivos procesados : 890,290
-  Espacio analizado   : 2.7 TB
-  Base de datos       : analisis/hdd_seagate_2026-05-15.db
-  (hashes omitidos — detección de duplicados no disponible)

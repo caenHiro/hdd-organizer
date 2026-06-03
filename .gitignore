@@ -1,0 +1,12 @@
+# datos personales y runtime
+logs/
+analisis/
+*.db
+*.db-shm
+*.db-wal
+*.egg-info/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log

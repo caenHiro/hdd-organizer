@@ -1,3 +1,0 @@
-[console_scripts]
-hdd-organizar = src.organizador_hdd.cli:cli
-hdd-scan = src.analizador.cli:cli

@@ -1,8 +1,0 @@
-click>=8.1
-rich>=13.0
-commons
-
-[metadata]
-Pillow>=10.0
-mutagen>=1.47
-pypdf>=4.0
