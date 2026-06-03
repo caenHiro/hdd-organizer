@@ -1,0 +1,81 @@
+{
+    "carpetas_privadas": {
+        "patrones": ["_privado", "privado", "privados", "_privados", "PRIVADO"],
+        "destino": "08_documentos/privados"
+    },
+    "paso1": {
+        "extensiones": [
+            ".class",
+            ".pyc",
+            ".pyo",
+            ".pyd",
+            ".sha1",
+            ".sha256",
+            ".md5",
+            ".pom",
+            ".lastupdated",
+            ".marker",
+            ".svn-base",
+            ".svn-work",
+            ".crdownload",
+            ".part",
+            ".so",
+            ".o",
+            ".a",
+            ".obj",
+            ".dex",
+            ".bkp",
+            ".sql~",
+            ".txt~",
+            ".py~",
+            ".js~",
+            ".tex~",
+            ".backup",
+            ".sample",
+            ".d",
+            ".timestamp",
+            ".idx",
+            ".iml",
+            ".log",
+            ".toc",
+            ".aux",
+            ".fdb_latexmk",
+            ".fls",
+            ".synctex.gz",
+            ".dvi",
+            ".bbl",
+            ".blg",
+            ".url",
+            ".website",
+            ".lnk"
+        ],
+        "nombres_exactos": [
+            "Thumbs.db",
+            ".DS_Store",
+            "ehthumbs.db",
+            "desktop.ini",
+            ".lastUpdated"
+        ],
+        "carpetas_siempre": [
+            "__pycache__",
+            ".svn",
+            ".gradle",
+            "node_modules",
+            ".idea",
+            ".eclipse",
+            "__MACOSX",
+            ".mypy_cache",
+            ".pytest_cache",
+            ".tox",
+            ".ruff_cache",
+            ".hypothesis",
+            ".venv",
+            "venv",
+            ".env"
+        ],
+        "carpetas_si_contienen_class": [
+            "target"
+        ],
+        "carpetas_maven_m2": true
+    }
+}

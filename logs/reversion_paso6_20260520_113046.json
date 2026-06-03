@@ -1,0 +1,382 @@
+{
+  "timestamp": "2026-05-20T11:35:02.798461",
+  "paso": 6,
+  "movimientos": [
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/ProyectoFinal_2.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/ProyectoFinal.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/ProyectoFinal2023-1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/ProyectoFinal2023-1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/proyectos2015.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/proyectos2015.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/query1 (1).sql",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/query1 (1).sql"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/reglamentointernocomputacion.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/reglamentointernocomputacion.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/SEGURO DE VIDA Formato_consentimiento_Activos_UNAsM-comprimido (1)-1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/SEGURO DE VIDA Formato_consentimiento_Activos_UNAsM-comprimido (1)-1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/SEGURO DE VIDA Formato_consentimiento_Activos_UNAsM-comprimido (1).pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/SEGURO DE VIDA Formato_consentimiento_Activos_UNAsM-comprimido (1).pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/SEGURO_DE_VIDA_Formato_consentimiento_Activos_UNAsM_comprimido_1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/SEGURO_DE_VIDA_Formato_consentimiento_Activos_UNAsM_comprimido_1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/SIAE [Panel de Control Final].pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/SIAE [Panel de Control Final].pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/SIAE [Panel de Control].pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/SIAE [Panel de Control].pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/SIAE [Panel de Control]1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/SIAE [Panel de Control]1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/Sistemadeasistencias.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Sistemadeasistencias.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/SolanoMartinez_Práctica02.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/SolanoMartinez_Práctica02.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/soluciontarea2.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/soluciontarea2.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/sta_trigger.sql",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/sta_trigger.sql"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/Tarea3.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Tarea3.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/tarea4.sql",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/tarea4.sql"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/tarea4.sql-",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/tarea4.sql-"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/Tarea4.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Tarea4.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/Tarea5.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Tarea5.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/Tesis.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Tesis.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/tira-20161-61179.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/tira-20161-61179.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/TiraMateriasJP.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/TiraMateriasJP.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/11.1ArbolesCART.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/11.1ArbolesCART.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/11.2RedesNeuronales.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/11.2RedesNeuronales.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/11Clasificacion.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/11Clasificacion.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/AMD20202-20210315T045129Z-001.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/AMD20202-20210315T045129Z-001.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/BD03_CONT_R49_Formas_Normales.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/BD03_CONT_R49_Formas_Normales.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/hist-61179 (1).pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/hist-61179 (1).pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/hist-61179.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/hist-61179.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/IMG_20150907_0001_NEW.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/IMG_20150907_0001_NEW.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/Impresión de Solicitud.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Impresión de Solicitud.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/OneDrive_1_11-5-2023.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/OneDrive_1_11-5-2023.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/OneDrive_1_9-2-2022.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/OneDrive_1_9-2-2022.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/pacientescancer - copia (2).csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/pacientescancer - copia (2).csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/pacientescancer.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/pacientescancer.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/pacientescancer1 - copia (2).csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/pacientescancer1 - copia (2).csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/pacientescancer1.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/pacientescancer1.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/pacientesFinal - copia (2).csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/pacientesFinal - copia (2).csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/pacientesFinal.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/pacientesFinal.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/practica11.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/practica11.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/1.-Reportes.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/1.-Reportes.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/2.Reportes.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/2.Reportes.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/Comisión de servicio Social.odt",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/Comisión de servicio Social.odt"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/Datos.backup",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/Datos.backup"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/datosProfes.txt",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/datosProfes.txt"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/inicio2012.docx",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/inicio2012.docx"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/inicio2012.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/inicio2012.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/inventario.backup",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/inventario.backup"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/MANEJO DE DATOS.docx",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/MANEJO DE DATOS.docx"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/Profesores.backup",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/Profesores.backup"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/ProfesoresBuenas.backup",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/ProfesoresBuenas.backup"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/ProfesoresBuenasHeroku.backup",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/ProfesoresBuenasHeroku.backup"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/termino_4.doc",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/termino_4.doc"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/termino_4.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/termino_4.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/BD_BreveExplicacion.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/BaseV2.0/BD_BreveExplicacion.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/BD_Terminado2.jpeg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/BaseV2.0/BD_Terminado2.jpeg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/07_escuela/_pendientes_clasificar/SQL",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/SQL"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/baseUltimo.backup",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/baseUltimo.backup"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/Conexion.php",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Conexion.php"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/consulta.sql",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/consulta.sql"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/cursos.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/cursos.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/EsqueletoJSON.docx",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/EsqueletoJSON.docx"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/estudioCursosProfesTC_30102014.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/estudioCursosProfesTC_30102014.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/llenado profesores.sql",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/llenado profesores.sql"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/nuevo.sql",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/nuevo.sql"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/PRIDE MAT. 08-2014.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/PRIDE MAT. 08-2014.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/profesor.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/profesor.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/profesores.backup",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/profesores.backup"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/SistemaProfesoresPilar.sql",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/SistemaProfesoresPilar.sql"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/cursoProf.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/cursoProf.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/estudioCursosProfesTC_30102014.ods",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/estudioCursosProfesTC_30102014.ods"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/PRIDE MAT. 08-2014.xlsx",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/PRIDE MAT. 08-2014.xlsx"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/prod mat.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/prod mat.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/profAsignatura.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/profAsignatura.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/profCarrera.csv",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/profCarrera.csv"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/Requerimiento profesores de carrera y asignatura - A CDs.xlsx",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/Requerimiento profesores de carrera y asignatura - A CDs.xlsx"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/Vigentes_SNI_Mat. 2014.xlsx",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Datos/Vigentes_SNI_Mat. 2014.xlsx"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/BD_BreveExplicacion.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Documentos/BaseV2.0/BD_BreveExplicacion.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/BD_Terminado2.jpeg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/servicio social/other/Documentos/BaseV2.0/BD_Terminado2.jpeg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/2020-04-22.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Solicitud de deposito UNAM/2020-04-22.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Captura de pantalla de 2020-04-22 17-54-01.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Solicitud de deposito UNAM/Captura de pantalla de 2020-04-22 17-54-01.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/CCF_000002.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Solicitud de deposito UNAM/CCF_000002.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/04_titulo-comprimido.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/04_titulo-comprimido.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/10_ine_EscalonaNavarro.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/10_ine_EscalonaNavarro.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/11907917-C1-comprimido.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/11907917-C1-comprimido.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/2024-06-18-1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/2024-06-18-1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/2024-06-18.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/2024-06-18.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/20240601-17944946-1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/20240601-17944946-1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/20240601-17944946.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/20240601-17944946.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/Estado de cuenta F.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/Estado de cuenta F.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/solicitud-deposito-bancario-1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/solicitud-deposito-bancario-1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/solicitud-deposito-bancario-F.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/solicitud-deposito-bancario-F.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/solicitud-deposito-bancario.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/11_escuela/Papeleo Unam/solicitud-deposito-bancario.pdf"
+    }
+  ]
+}

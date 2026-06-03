@@ -1,0 +1,28 @@
+[project]
+name = "sistema-archivos-hdd"
+version = "0.3.0"
+description = "Analizador y organizador de archivos HDD/SSD — inventarios, deduplicación, exportación CSV"
+requires-python = ">=3.12"
+dependencies = [
+    "click>=8.1",
+    "rich>=13.0",
+    "commons",
+]
+
+[project.optional-dependencies]
+metadata = [
+    "Pillow>=10.0",
+    "mutagen>=1.47",
+    "pypdf>=4.0",
+]
+
+[project.scripts]
+hdd-scan = "src.analizador.cli:cli"
+hdd-organizar = "src.organizador_hdd.cli:cli"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"

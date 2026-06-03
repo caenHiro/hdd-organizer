@@ -1,0 +1,566 @@
+{
+  "timestamp": "2026-05-20T11:31:19.045628",
+  "paso": 6,
+  "movimientos": [
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/foto",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/foto"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/README.md",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/README.md"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/COMMIT_EDITMSG",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/COMMIT_EDITMSG"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/config",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/config"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/description",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/description"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/HEAD",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/HEAD"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/index",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/index"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/packed-refs",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/packed-refs"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/applypatch-msg.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/applypatch-msg.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/commit-msg.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/commit-msg.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/fsmonitor-watchman.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/fsmonitor-watchman.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/post-update.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/post-update.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/pre-applypatch.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/pre-applypatch.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/pre-commit.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/pre-commit.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/pre-push.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/pre-push.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/pre-rebase.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/pre-rebase.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/pre-receive.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/pre-receive.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/prepare-commit-msg.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/prepare-commit-msg.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/update.sample",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/hooks/update.sample"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/exclude",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/info/exclude"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/HEAD",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/logs/HEAD"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/master",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/logs/refs/heads/master"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/HEAD",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/logs/refs/remotes/origin/HEAD"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/master",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/logs/refs/remotes/origin/master"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/05ea9f958103c04951ed617066823a8af7f1cd",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/0b/05ea9f958103c04951ed617066823a8af7f1cd"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/ef2c40dd5263b833ee8e016a34b44f576962a5",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/1a/ef2c40dd5263b833ee8e016a34b44f576962a5"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/8f1e94bf8e0c85549b27f9ebeab214dc7c01dc",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/50/8f1e94bf8e0c85549b27f9ebeab214dc7c01dc"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/932f0ff2d203bf4dc0f2c74531f75364d57266",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/68/932f0ff2d203bf4dc0f2c74531f75364d57266"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/38e3db8c54b4e5ffc6719aa7cbdcd7efcdda4e",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/74/38e3db8c54b4e5ffc6719aa7cbdcd7efcdda4e"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/1ae6b897c0d37b0006b51b8f58ab630071530b",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/7e/1ae6b897c0d37b0006b51b8f58ab630071530b"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/d5638f51cf497abd6fcbbc053d0cf70e2b30a8",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/85/d5638f51cf497abd6fcbbc053d0cf70e2b30a8"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/a4e5d5f02c860046b580490f75ba149cc2fbbb",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/9e/a4e5d5f02c860046b580490f75ba149cc2fbbb"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/e2de500835d3e563339543c52d5fc70edfc369",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/a0/e2de500835d3e563339543c52d5fc70edfc369"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/ec9d11924355b89c825022a14d4b3b018a889b",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/ac/ec9d11924355b89c825022a14d4b3b018a889b"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/e22d157d968db04b4bf1a56bfc3825f4c1e4ea",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/c3/e22d157d968db04b4bf1a56bfc3825f4c1e4ea"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/65e87a939b1cd9960c17a979a0d5a444fb494f",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/cf/65e87a939b1cd9960c17a979a0d5a444fb494f"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/7ad2e348e0eec620eb50600b6531e83c9c3673",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/dd/7ad2e348e0eec620eb50600b6531e83c9c3673"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/pack-7b119d36b16ef97082f2b65d55116917f16f6ec9.idx",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/pack/pack-7b119d36b16ef97082f2b65d55116917f16f6ec9.idx"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/pack-7b119d36b16ef97082f2b65d55116917f16f6ec9.pack",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/objects/pack/pack-7b119d36b16ef97082f2b65d55116917f16f6ec9.pack"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/master",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/refs/heads/master"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/HEAD",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/refs/remotes/origin/HEAD"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/master",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/.git/refs/remotes/origin/master"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/curriculum-vitae-CAEN- UNAM..pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2015-2017/curriculum-vitae-CAEN- UNAM..pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/curriculum-vitae-CAEN-4anios.doc",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2015-2017/curriculum-vitae-CAEN-4anios.doc"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/curriculum-vitae-CAEN..doc",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2015-2017/curriculum-vitae-CAEN..doc"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/curriculum-vitae-CAEN.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2015-2017/curriculum-vitae-CAEN.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/curriculum-vitae-en proceso -CAEN..pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2015-2017/curriculum-vitae-en proceso -CAEN..pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/CV_Caen.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/CV_Caen.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/caen.JPEG",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/caen.JPEG"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/foto14.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/foto14.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fdb_latexmk",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.fdb_latexmk"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.fls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/frente.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/frente.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/frente.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/frente.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/reverso.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/texput.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/texput.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Frente/fonts/segoeuib.ttf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/reverso.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/reverso.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/reverso.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/reverso.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/reverso.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/reverso.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/reverso.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/reverso.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/reverso.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2018/Reverso/fonts/segoeuib.ttf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/CV_CAEN.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/CV_CAEN.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/foto14.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/foto14.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fdb_latexmk",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.fdb_latexmk"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.fls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/frente.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/frente.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/frente.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/frente.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/qr.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/qr.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/reverso.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/texput.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/texput.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Frente/fonts/segoeuib.ttf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/reverso.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/reverso.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/reverso.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/reverso.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/reverso.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/reverso.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/reverso.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/reverso.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/reverso.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2019/Reverso/fonts/segoeuib.ttf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/CV_CAEN2020.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/CV_CAEN2020.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/foto14.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/foto14.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fdb_latexmk",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.fdb_latexmk"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.fls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/frente.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/frente.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/frente.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/frente.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/qr.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/qr.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/reverso.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/texput.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/texput.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Frente/fonts/segoeuib.ttf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/reverso.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/reverso.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/reverso.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/reverso.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/reverso.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/reverso.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/reverso.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/reverso.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/reverso.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/texput.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/texput.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2020/Reverso/fonts/segoeuib.ttf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/CV_CAEN.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/CV_CAEN.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/foto14.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/foto14.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fdb_latexmk",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.fdb_latexmk"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.fls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.fls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/frente.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/frente.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/frente.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/frente.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/frente.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/qr.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/qr.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/texput.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/texput.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Frente/fonts/segoeuib.ttf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.aux",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/reverso.aux"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/reverso.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/reverso.out",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/reverso.out"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/reverso.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/reverso.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/reverso.synctex.gz",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/reverso.synctex.gz"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/_pendientes/reverso.tex",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/reverso.tex"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/texput.log",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/texput.log"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/twentysecondcv.cls",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/twentysecondcv.cls"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/sin_clasificar/segoeuib.ttf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/CV_CAEN/2021/Reverso/fonts/segoeuib.ttf"
+    }
+  ]
+}

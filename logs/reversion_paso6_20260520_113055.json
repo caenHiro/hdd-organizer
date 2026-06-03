@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-20T11:31:14.356327",
+  "paso": 6,
+  "movimientos": [
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/amazon.actualtests.aws-certified-cloud-practitioner.free.pdf.2023-jun-21.by.blithe.186q.vce.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/amazon.actualtests.aws-certified-cloud-practitioner.free.pdf.2023-jun-21.by.blithe.186q.vce.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/amazon.ensurepass.aws-certified-cloud-practitioner.dumps.2023-apr-19.by.broderick.98q.vce.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/amazon.ensurepass.aws-certified-cloud-practitioner.dumps.2023-apr-19.by.broderick.98q.vce.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/amazon.pass4sure.aws-certified-cloud-practitioner.pdf.download.2023-jun-14.by.ira.214q.vce.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/amazon.pass4sure.aws-certified-cloud-practitioner.pdf.download.2023-jun-14.by.ira.214q.vce.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/amazon.passguide.aws-certified-cloud-practitioner.dumps.2023-jul-03.by.reginald.219q.vce.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/amazon.passguide.aws-certified-cloud-practitioner.dumps.2023-jul-03.by.reginald.219q.vce.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/04_libros/cursos/AWS Certified Cloud Practitioner Study Guide - 2018 - Piper - Front Matter.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/AWS Certified Cloud Practitioner Study Guide - 2018 - Piper - Front Matter.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/AWS-Certified-Developer-v1.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/AWS-Certified-Developer-v1.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/AWS-Cloud Practitioner.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/AWS-Cloud Practitioner.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/aws-overview.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/aws-overview.pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/awsPythonSAM.txt",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/awsPythonSAM.txt"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/_pendientes/zips_revisar/codigo-aws-developer-associate-main.zip",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/codigo-aws-developer-associate-main.zip"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/cursoINEAWS.txt",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/cursoINEAWS.txt"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/EDA Enabling Business - FCD .pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/EDA Enabling Business - FCD .pdf"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/08_documentos/otro/general/pdfcoffee.com_aws-certified-cloud-practitioner-slides-v10pdf-pdf-free.pdf",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/z.checar/AWS/pdfcoffee.com_aws-certified-cloud-practitioner-slides-v10pdf-pdf-free.pdf"
+    }
+  ]
+}

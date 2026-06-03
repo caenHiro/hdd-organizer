@@ -1,0 +1,1158 @@
+{
+  "timestamp": "2026-05-20T13:49:29.932668",
+  "paso": 6,
+  "movimientos": [
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/09_codigo/varios/_trabajo/reportesEstaticos",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/reportesEstaticos"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/08-NAN.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/08-NAN.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/09-VIVA.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/09-VIVA.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/1.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/1.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/10-MLN.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/10-MLN.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/10.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/10.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/11.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/11.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/12.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/12.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/13.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/13.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/14.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/14.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/15.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/15.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/16.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/16.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/17.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/17.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/18.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/18.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/19.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/19.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/2.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/2.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/20.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/20.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/21.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/21.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/3.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/3.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/5.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/5.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/6.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/6.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/7.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/7.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/8.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/8.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/9.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/9.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/ALIZANZA_VERACRUZANA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/ALIZANZA_VERACRUZANA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/armonia.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/armonia.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/BAJA_CALIFORNIA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/BAJA_CALIFORNIA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/bienestar_ciudadano.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/bienestar_ciudadano.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CANDIDATOS_INDEPENDIENTES.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CANDIDATOS_INDEPENDIENTES.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CANDIDATOS_INDEPENDIENTES_FEDERAL.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CANDIDATOS_INDEPENDIENTES_FEDERAL.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CANDIDATOS_INDEPENDIENTES_LOCAL.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CANDIDATOS_INDEPENDIENTES_LOCAL.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CHIAPASUNICO.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CHIAPASUNICO.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CHIAPAS_UNIDO.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CHIAPAS_UNIDO.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIF.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIF.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIF.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIF.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIF.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIF.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIF_.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIF_.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIL.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIL.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIL.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIL.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIL.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIL.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIL_.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIL_.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIL_.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIL_.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CompormisoporPuebla_251x251.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CompormisoporPuebla_251x251.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/COMPROMISO_PUEBLA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/COMPROMISO_PUEBLA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/ConfianzaporQuintanaRoo.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/ConfianzaporQuintanaRoo.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EmblemaNANL251x251.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EmblemaNANL251x251.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_AVE_ESTADO_30.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_AVE_ESTADO_30.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CAN1_ESTADO_1.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CAN1_ESTADO_1.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CCP_ESTADO_21.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CCP_ESTADO_21.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CIF.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CIF.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CIF2.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CIF2.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CIL2.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CIL2.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CI_ant.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CI_ant.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CI_BRONCO.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CI_BRONCO.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CI_BRONCO.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CI_BRONCO.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CI_BRONCO.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CI_BRONCO.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CI_MARGARITA.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CI_MARGARITA.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CI_MARGARITA2.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CI_MARGARITA2.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CIññ.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CIññ.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CPQ_ESTADO_23.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CPQ_ESTADO_23.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_ENCUENTRO_SOCIAL_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_ENCUENTRO_SOCIAL_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_LA_FAMILIA_PRIMERO_ESTADO_32.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_LA_FAMILIA_PRIMERO_ESTADO_32.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MAS_ESTADO_23.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MAS_ESTADO_23.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MAS_ESTADO_26.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MAS_ESTADO_26.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MAS_ESTADO_26.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MAS_ESTADO_26.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/4.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/4.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/CIF_-01.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/CIF_-01.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_CIL.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_CIL.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MBC_ESTADO_2.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MBC_ESTADO_2.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOBCSCOHERENTE_ESTADO_3.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOBCSCOHERENTE_ESTADO_3.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_CONVERGENCIA_ESTADO_22.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_CONVERGENCIA_ESTADO_22.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PD_ESTADO_10.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PD_ESTADO_10.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRD_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRD_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PS_ESTADO_29.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PS_ESTADO_29.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/ENCUENTROSOCIAL.jpeg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/ENCUENTROSOCIAL.jpeg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_PAC.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_PAC.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/MovimientoDignidad.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/MovimientoDignidad.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAN_PRD.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAN_PRD.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_DE_BAJA_CALIFORNIA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_DE_BAJA_CALIFORNIA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_SOCIALDEMOCRATA_OAXACA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_SOCIALDEMOCRATA_OAXACA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRD_PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRD_PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MC_ESTADO_0.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MC_ESTADO_0.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MORENA_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MORENA_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MOVERACHIAPAS_ESTADO_7.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MOVERACHIAPAS_ESTADO_7.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_0.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_0.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_0.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_0.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_00.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_00.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_01.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MOVIMIENTO_CIUDADANO_ESTADO_01.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_MOVIMIENTO_DIGNIDAD_ESTADO_32.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_MOVIMIENTO_DIGNIDAD_ESTADO_32.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_NUEVA_ALIANZA_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_NUEVA_ALIANZA_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PAC_ESTADO_29.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PAC_ESTADO_29.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PAN_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PAN_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOCHIAPASUNIDO_ESTADO_7.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOCHIAPASUNIDO_ESTADO_7.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOCRUZADACIUDADANA_ESTADO_19.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOCRUZADACIUDADANA_ESTADO_19.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDODEMOCRATA_ESTADO_19.jpeg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDODEMOCRATA_ESTADO_19.jpeg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDODEMOCRATA_ESTADO_19.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDODEMOCRATA_ESTADO_19.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOHUMANISTACDMX_ESTADO_9.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOHUMANISTACDMX_ESTADO_9.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOHUMANISTADELDISTRITOFEDERAL_ESTADO_9.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOHUMANISTADELDISTRITOFEDERAL_ESTADO_9.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOHUMANISTA_ESTADO_17.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOHUMANISTA_ESTADO_17.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOHUMANISTA_ESTADO_3.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOHUMANISTA_ESTADO_3.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOHUMANISTA_ESTADO_3aa.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOHUMANISTA_ESTADO_3aa.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDOPLC_ESTADO_4.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDOPLC_ESTADO_4.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PartidoSIF_ESTADO_22.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PartidoSIF_ESTADO_22.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_COINCIDENCIA_GUERRERENSE_ESTADO_12.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_COINCIDENCIA_GUERRERENSE_ESTADO_12.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_DEL_PUEBLO_ESTADO_32.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_DEL_PUEBLO_ESTADO_32.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_HUMANISTAl_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_HUMANISTAl_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_HUMANISTA_ESTADO_17.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_HUMANISTA_ESTADO_17.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_HUMANISTA_ESTADO_3.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_HUMANISTA_ESTADO_3.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_IMPLUSO_HUMANISTA_ESTADO_12.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_IMPLUSO_HUMANISTA_ESTADO_12.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PARTIDO_INDEPENDIENTE_ESTADO_25.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PARTIDO_INDEPENDIENTE_ESTADO_25.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PAS_ESTADO_25.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PAS_ESTADO_25.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PAS_ESTADO_25.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PAS_ESTADO_25.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PAZ_ESTADO_32.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PAZ_ESTADO_32.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PBC_ESTADO_2.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PBC_ESTADO_2.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PBC_ESTADO_2.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PBC_ESTADO_2.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PCP_ESTADO_24.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PCP_ESTADO_24.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PCP_ESTADO_5.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PCP_ESTADO_5.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PC_ESTADO_30.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PC_ESTADO_30.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PES_ESTADO_2.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PES_ESTADO_2.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PFD_ESTADO_15.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PFD_ESTADO_15.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PJ_ESTADO_5.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PJ_ESTADO_5.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PJ_ESTADO_5.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PJ_ESTADO_5.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PLA_ESTADO_1.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PLA_ESTADO_1.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PLA_ESTADO_1.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PLA_ESTADO_1.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PMOVERACHIAPAS_ESTADO_7.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PMOVERACHIAPAS_ESTADO_7.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PMR_ESTADO_20.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PMR_ESTADO_20.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PPC_ESTADO_2.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PPC_ESTADO_2.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PPC_ESTADO_5.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PPC_ESTADO_5.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PPC_ESTADO_5.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PPC_ESTADO_5.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PPG_ESTADO_12.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PPG_ESTADO_12.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRC_ESTADO_5.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRC_ESTADO_5.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRC_ESTADO_5.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRC_ESTADO_5.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRI_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRI_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRS_ESTADO_18 (2).jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRS_ESTADO_18 (2).jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRS_ESTADO_18.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRS_ESTADO_18.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRS_ESTADO_20.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRS_ESTADO_20.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PRS_ESTADO_3.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PRS_ESTADO_3.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSD_ESTADO_17.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSD_ESTADO_17.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSD_ESTADO_20.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSD_ESTADO_20.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSD_ESTADO_20.PNG",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSD_ESTADO_20.PNG"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSD_ESTADO_5.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSD_ESTADO_5.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSD_ESTADO_5.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSD_ESTADO_5.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSG_ESTADO_12.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSG_ESTADO_12.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSI_ESTADO_21.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSI_ESTADO_21.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PSM_ESTADO_12.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PSM_ESTADO_12.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PS_ESTADO_29.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PS_ESTADO_29.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PT_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PT_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PUB_ESTADO_20.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PUB_ESTADO_20.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_PVEM_ESTADO_0.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_PVEM_ESTADO_0.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_QI_ESTADO_22.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_QI_ESTADO_22.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_RED_ESTADO_19.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_RED_ESTADO_19.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_RED_ESTADO_19.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_RED_ESTADO_19.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_SI_ESTADO_5.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_SI_ESTADO_5.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_SocialDemocrata_ESTADO_20.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_SocialDemocrata_ESTADO_20.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_TRANSFORMEMOS_ESTADO_2.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_TRANSFORMEMOS_ESTADO_2.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_UDC_ESTADO_5.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_UDC_ESTADO_5.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_UDC_ESTADO_5.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_UDC_ESTADO_5.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_UPA_ESTADO_1.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_UPA_ESTADO_1.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_VC_ESTADO_15.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_VC_ESTADO_15.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EMBLEMA_VR_ESTADO_15.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EMBLEMA_VR_ESTADO_15.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/encuentro_social.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/encuentro_social.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/esh.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/esh.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/EZ.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/EZ.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/fuerza_morelos.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/fuerza_morelos.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/futuro.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/futuro.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/FUTUROJalisco.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/FUTUROJalisco.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/HAGAMOS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/HAGAMOS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/humanista_morelos.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/humanista_morelos.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/IMAGEN_GENERICA_BC_2.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/IMAGEN_GENERICA_BC_2.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/imagen_sitio_mc_png_0.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/imagen_sitio_mc_png_0.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LaFamiliaPrimero.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LaFamiliaPrimero.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LOGOEQUIDADYGENERO_251H.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LOGOEQUIDADYGENERO_251H.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_Encuentro_SocialTlaxcala.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_Encuentro_SocialTlaxcala.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_ImpactoSocialSi.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_ImpactoSocialSi.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_Partido_Socialista.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOSLOCALES_Partido_Socialista.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOS_LOCALES_NuevaAlianzaTlaxcala.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LOGOTIPOSEMBLEMASPARTIDOSPOLITICOS_LOCALES_NuevaAlianzaTlaxcala.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/LOGO_NUEVAALIANZA_COLIMA.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/LOGO_NUEVAALIANZA_COLIMA.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Logo_Partido_BCS_Coherente.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Logo_Partido_BCS_Coherente.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Logo_Partido_Humanista_BCS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Logo_Partido_Humanista_BCS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Logo_Partido_Nueva_Alianza_BCS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Logo_Partido_Nueva_Alianza_BCS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Logo_Partido_PRS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Logo_Partido_PRS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/marga.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/marga.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Margarita-01.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Margarita-01.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Margarita.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Margarita.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/mas.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/mas.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/MASPORHIDALGO.jpeg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/MASPORHIDALGO.jpeg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/mas_apoyo_social.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/mas_apoyo_social.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/MovimientoAutenticoSocial.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/MovimientoAutenticoSocial.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NACIONAL_FUERZASOCIALPORMEXICO.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NACIONAL_FUERZASOCIALPORMEXICO.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NACIONAL_PARTIDOENCUENTROSOLIDARIO.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NACIONAL_PARTIDOENCUENTROSOLIDARIO.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NACIONAL_REDESSOCIALESPROGRESISTAS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NACIONAL_REDESSOCIALESPROGRESISTAS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NAEDOMEX_Mesadetrabajo1.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NAEDOMEX_Mesadetrabajo1.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/nah.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/nah.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NAlianzaGto_251x251px.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NAlianzaGto_251x251px.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NUEVAALIANZA.jpeg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NUEVAALIANZA.jpeg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NuevaAlianza.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NuevaAlianza.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NUEVAALIANZACHIAPAS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NUEVAALIANZACHIAPAS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NUEVAALIANZAOAXACA251px.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NUEVAALIANZAOAXACA251px.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NuevaAlianzaPuebla_251x251.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NuevaAlianzaPuebla_251x251.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/NuevaAlianzaZacatecas.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/NuevaAlianzaZacatecas.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/nueva_alianza.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/nueva_alianza.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Nueva_Alianza_Aguascalientes.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Nueva_Alianza_Aguascalientes.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PactoSocialdeIntegracionPartidoPolitico251x251.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PactoSocialdeIntegracionPartidoPolitico251x251.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAN_PRD_PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAN_PRD_PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAN_PRD_PT.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAN_PRD_PT.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAN_PRD_PT_PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAN_PRD_PT_PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAN_PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAN_PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAN_PT.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAN_PT.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAN_PT_PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAN_PT_PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PartidodelPueblo.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PartidodelPueblo.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDOPOPULARCHIAPANECO.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDOPOPULARCHIAPANECO.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PartidoSinaloense.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PartidoSinaloense.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDOUNIDADPOPULAR251px.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDOUNIDADPOPULAR251px.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_ALIANZA_CIUDADANA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_ALIANZA_CIUDADANA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_ALIANZA_VERACRUZANA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_ALIANZA_VERACRUZANA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_CAMPESINO.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_CAMPESINO.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_CARDENISTA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_CARDENISTA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_CARDENISTA.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_CARDENISTA.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_DURANGUENCE.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_DURANGUENCE.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_DURANGUENSE.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_DURANGUENSE.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Partido_Duranguense.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Partido_Duranguense.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_ENCUENTRO_SOCIAL.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_ENCUENTRO_SOCIAL.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_JOVEN.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_JOVEN.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Partido_Libre_de_Aguascalientes.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Partido_Libre_de_Aguascalientes.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_MUNICIPALISTA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_MUNICIPALISTA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_MUNICIPALISTA_BC.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_MUNICIPALISTA_BC.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_PENINSULAR_CALIFORNIA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_PENINSULAR_CALIFORNIA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_PENINSULAR_CALIFORNIAS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_PENINSULAR_CALIFORNIAS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_PJ_ESTADO.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_PJ_ESTADO.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_PRC_ESTADO.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_PRC_ESTADO.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_PRIMERO.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_PRIMERO.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_RENOVACION_SOCIAL.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_RENOVACION_SOCIAL.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_REVOLUCION.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_REVOLUCION.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_SOCIALISTA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_SOCIALISTA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_SOCIAL_INTEGRACION.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_SOCIAL_INTEGRACION.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_UDC_ESTADO.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_UDC_ESTADO.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PARTIDO_UNIDAD_POPULAR.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PARTIDO_UNIDAD_POPULAR.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PAZ.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PAZ.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PCP.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PCP.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PCP_Estado.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PCP_Estado.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PNACHIHUAHUA_251X251P-01.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PNACHIHUAHUA_251X251P-01.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PODEMOS.jpeg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PODEMOS.jpeg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/podemos.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/podemos.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PODEMOSMOVERACHIAPAS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PODEMOSMOVERACHIAPAS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PODEMOS_251.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PODEMOS_251.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PPL.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PPL.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PPL.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PPL.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/pplmph.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/pplmph.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PPL_gif.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PPL_gif.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRC.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRC.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRD_PT.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRD_PT.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRD_PT_PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRD_PT_PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRI_ALIANZA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRI_ALIANZA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRI_NA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRI_NA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRI_PVEM.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRI_PVEM.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRI_PVEM_NA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRI_PVEM_NA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRI_VERDE.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRI_VERDE.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRI_VERDE_ALIANZA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRI_VERDE_ALIANZA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/progresa.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/progresa.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PSD.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PSD.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/psd.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/psd.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PSD_Estado5.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PSD_Estado5.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PSD_ESTADO_5.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PSD_ESTADO_5.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PT_PRS.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PT_PRS.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PUP.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PUP.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/PVEM_NA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/PVEM_NA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/QRO.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/QRO.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/renovacion_politica.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/renovacion_politica.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/REVOLUCION_SOCIALISTA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/REVOLUCION_SOCIALISTA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/SLP1.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/SLP1.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/SLP2.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/SLP2.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/SOMOS.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/SOMOS.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/TODOS_POR_VERACRUZ.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/TODOS_POR_VERACRUZ.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/UDC.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/UDC.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/UDC251pxx251px.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/UDC251pxx251px.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/UNIDAD_CIUDADANA.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/UNIDAD_CIUDADANA.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/unidos.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/unidos.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/VERDE_ALIANZA.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/VERDE_ALIANZA.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/YUCATANlogo_NAY.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/YUCATANlogo_NAY.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Zavala.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Zavala.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Zavala.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Zavala.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Zavala.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Zavala.png"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Zavala1.gif",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Zavala1.gif"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Zavala1.jpg",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Zavala1.jpg"
+    },
+    {
+      "origen": "/media/caenhiro/Seagate Backup Plus Drive/HDD_organizado/01b_imagenes/_sin_categoria/Zavala1.png",
+      "destino": "/media/caenhiro/Seagate Backup Plus Drive/Respaldo !!!/Respando/respaldo_ubunutu/GlusterFS/emblemasPartidos/Zavala1.png"
+    }
+  ]
+}

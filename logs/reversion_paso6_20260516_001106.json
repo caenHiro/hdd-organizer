@@ -1,0 +1,1674 @@
+{
+  "timestamp": "2026-05-16T00:11:36.021886",
+  "paso": 6,
+  "movimientos": [
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/32. API Gateway Basics Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/32. API Gateway Basics Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Step Functions - Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Step Functions - Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/3. AWS Lambda - First Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/3. AWS Lambda - First Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/053 API Gateway Swagger & Open API 3.0.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/053 API Gateway Swagger & Open API 3.0.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/28. Lambda and CodeDeploy.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/28. Lambda and CodeDeploy.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. AWS Lambda Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. AWS Lambda Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/9. Lambda Asynchronous Invocations & DLQ.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/9. Lambda Asynchronous Invocations & DLQ.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Updating a State Machine.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Updating a State Machine.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-introduction_to_rcnn.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-introduction_to_rcnn.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0902 Advanced Features Of S3.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0902 Advanced Features Of S3.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0308 Making An AMI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0308 Making An AMI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Invoking your Lambda Function Directly.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Invoking your Lambda Function Directly.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/008 Lambda & Application Load Balancer Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/008 Lambda & Application Load Balancer Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/40. API Gateway Swagger & Open API 3.0.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/40. API Gateway Swagger & Open API 3.0.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0205 Web GUI, APIs, And SDK.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0205 Web GUI, APIs, And SDK.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Installing Serverless Framework & Setting up an AWS Profile.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Installing Serverless Framework & Setting up an AWS Profile.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Create AWS Lambda function using any runtime.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Create AWS Lambda function using any runtime.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/060 API Gateway Websocket API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/060 API Gateway Websocket API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/12-demonstration_pre_trained_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/12-demonstration_pre_trained_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-multi_layered_perceptron.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-multi_layered_perceptron.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Setup the Thumbnail Generator - Code - Part 1.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Setup the Thumbnail Generator - Code - Part 1.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-summary_of_cnn_in_deep_learning.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-summary_of_cnn_in_deep_learning.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Setting up DynamoDB for Saving Thumbnail Metadata.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Setting up DynamoDB for Saving Thumbnail Metadata.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0501 Using AutoScaling and CloudWatch.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0501 Using AutoScaling and CloudWatch.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/39. API Gateway Mapping Templates Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/39. API Gateway Mapping Templates Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07-demonstration_training_the_model_and_visualizing_the_predictions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07-demonstration_training_the_model_and_visualizing_the_predictions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-importance_of_lstm_architecture.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-importance_of_lstm_architecture.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0101 What Is The Cloud.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0101 What Is The Cloud.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02 - What's a webhook.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02 - What's a webhook.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/021 Lambda Permissions - IAM Roles & Resource Policies - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/021 Lambda Permissions - IAM Roles & Resource Policies - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Environment Variables in AWS Lambda.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Environment Variables in AWS Lambda.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 Saving Thumbnail URLs and Metadata to Database.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 Saving Thumbnail URLs and Metadata to Database.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Implementation of Thumbnail Service - Part 1.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Implementation of Thumbnail Service - Part 1.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/21. Lambda Function Performance.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/21. Lambda Function Performance.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Creating State Machine from Template with VS Code and AWS Toolkit.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Creating State Machine from Template with VS Code and AWS Toolkit.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/3. Deploying our First Function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/3. Deploying our First Function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/3. About your Instructor.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/3. About your Instructor.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 AWS Lambda Console - Create Your First Lambda Function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 AWS Lambda Console - Create Your First Lambda Function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Serverless Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Serverless Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Adding a Wait State to our State Machine in Step Function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Adding a Wait State to our State Machine in Step Function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Finished with Subscriber API EndPoint - What's Next.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Finished with Subscriber API EndPoint - What's Next.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/6. Lambda & Application Load Balancer.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/6. Lambda & Application Load Balancer.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-summary_of_deep_learning_components.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-summary_of_deep_learning_components.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/037 Lambda Layers - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/037 Lambda Layers - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/048 API Gateway Stages Configurations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/048 API Gateway Stages Configurations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/064 Cognito User Pools Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/064 Cognito User Pools Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/067 Cognito Identity Pools Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/067 Cognito Identity Pools Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/8. Section Summary.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/8. Section Summary.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04 - Create the build server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04 - Create the build server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-classification_and_object_detection.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-classification_and_object_detection.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0402 Lab.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0402 Lab.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Overview of S3 Thumbnail Generator Service.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Overview of S3 Thumbnail Generator Service.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06 - Deploy to Elastic Beanstalk from GitHub.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06 - Deploy to Elastic Beanstalk from GitHub.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/010 Creating the Frontend Form and Sending Messages.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/010 Creating the Frontend Form and Sending Messages.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Setting up VS Code and AWS Toolkit.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Setting up VS Code and AWS Toolkit.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 The Task State - Step Functions with Lambda Functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 The Task State - Step Functions with Lambda Functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Deploying to AWS Console.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Deploying to AWS Console.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Deploying the ec2 start and stop lambda functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Deploying the ec2 start and stop lambda functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08-learning_rate.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08-learning_rate.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. Serverless Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. Serverless Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-artificial_neural_network_ann.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-artificial_neural_network_ann.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. Building the REST API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. Building the REST API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-rnn_fundamentals.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-rnn_fundamentals.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 What Will You Learn in This Course.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 What Will You Learn in This Course.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/012 Lambda & CloudWatch Events  EventBridge.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/012 Lambda & CloudWatch Events  EventBridge.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/038 Lambda Container Images.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/038 Lambda Container Images.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/23. Lambda Concurrency Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/23. Lambda Concurrency Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/028 Lambda Function Performance.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/028 Lambda Function Performance.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-fast_regional_cnn.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-fast_regional_cnn.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Create AWS Lambda Function Using any Runtime.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Create AWS Lambda Function Using any Runtime.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-demonstration_building_a_simple_neural_network.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-demonstration_building_a_simple_neural_network.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-implementing_rnn.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-implementing_rnn.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/055 API Gateway Usage Plans & API Keys.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/055 API Gateway Usage Plans & API Keys.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/51. Cognito Identity Pools Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/51. Cognito Identity Pools Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/014 Lambda & S3 Event Notifications.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/014 Lambda & S3 Event Notifications.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-mlp_limitations_resolving_the_issue_with_cnn.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-mlp_limitations_resolving_the_issue_with_cnn.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/43. API Gateway Monitoring, Logging and Tracing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/43. API Gateway Monitoring, Logging and Tracing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/044 AWS API Gateway Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/044 AWS API Gateway Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/31. AWS API Gateway Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/31. AWS API Gateway Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/018 Lambda Destinations.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/018 Lambda Destinations.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/011 Lambda Asynchronous Invocations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/011 Lambda Asynchronous Invocations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-environment_configuration.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-environment_configuration.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Overview of the Lambda Service.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Overview of the Lambda Service.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0303 Spinning Up Your First EC2 Server And SSHing In.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0303 Spinning Up Your First EC2 Server And SSHing In.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/14. Lambda Event Source Mapping Hands On (SQS).mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/14. Lambda Event Source Mapping Hands On (SQS).mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Next steps  Ideas.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Next steps  Ideas.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/42. API Gateway Usage Plans & API Keys.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/42. API Gateway Usage Plans & API Keys.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/062 API Gateway - Architecture.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/062 API Gateway - Architecture.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Overview of REST API Service.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Overview of REST API Service.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04 - Challenge Connect Jenkins to GitHub.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04 - Challenge Connect Jenkins to GitHub.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07-demonstration_designing_the_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07-demonstration_designing_the_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/022 Lambda Environment Variables.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/022 Lambda Environment Variables.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Serverless YAML Setup - Configuring S3 and Custom Variables - Deploying the App.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Serverless YAML Setup - Configuring S3 and Custom Variables - Deploying the App.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/35. API Gateway Stages Configurations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/35. API Gateway Stages Configurations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02 - Download the application code.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02 - Download the application code.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. Installing Serverless.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. Installing Serverless.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/19. Lambda Monitoring & X-Ray Tracing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/19. Lambda Monitoring & X-Ray Tracing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Adding a Layer Dependency to our Function - Debug Session.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Adding a Layer Dependency to our Function - Debug Session.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0304 Keypairs, DNS Changes, Etc..mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0304 Keypairs, DNS Changes, Etc..mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/10-activation_function_and_its_types.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/10-activation_function_and_its_types.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0307 Pricing Model For EC2.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0307 Pricing Model For EC2.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-course_summary_for_practical_deep_learning_with_python.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-course_summary_for_practical_deep_learning_with_python.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Run and Debug Directly from the Project.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Run and Debug Directly from the Project.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-demonstration_object_detection_with_faster_rcnn_pretrained_model_setup.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-demonstration_object_detection_with_faster_rcnn_pretrained_model_setup.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/50. Cognito Identity Pools.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/50. Cognito Identity Pools.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-summary_of_faster_rcnn.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-summary_of_faster_rcnn.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-limitations_of_single_layered_perceptron.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-limitations_of_single_layered_perceptron.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 SES Final Toughts.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 SES Final Toughts.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/008 Creating Authorized IAM Users For Deleting and Updating Items with Postman.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/008 Creating Authorized IAM Users For Deleting and Updating Items with Postman.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0206 Introduction To Authentication And Authorization.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0206 Introduction To Authentication And Authorization.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/045 API Gateway Basics Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/045 API Gateway Basics Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/070 Step Functions Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/070 Step Functions Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/040 Lambda Versions and Aliases - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/040 Lambda Versions and Aliases - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/3. Next steps  Ideas.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/3. Next steps  Ideas.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/7. Removing the function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/7. Removing the function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/008 AWS Lambda Pricing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/008 AWS Lambda Pricing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/10. Lambda Asynchronous Invocations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/10. Lambda Asynchronous Invocations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-limitations_of_mlp.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-limitations_of_mlp.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/065 Cognito User Pools - Others.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/065 Cognito User Pools - Others.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/011 Setting up SendGrid Email API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/011 Setting up SendGrid Email API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/22. Lambda Concurrency.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/22. Lambda Concurrency.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08-demonstration_handwritten_digits_classification_designing_the_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08-demonstration_handwritten_digits_classification_designing_the_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Getting Started with Todo REST API - NodeJS.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Getting Started with Todo REST API - NodeJS.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/016 Lambda Event Source Mapping.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/016 Lambda Event Source Mapping.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/10-demonstration_adding_more_layers.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/10-demonstration_adding_more_layers.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-model_optimization.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-model_optimization.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/4. AWS Lambda Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/4. AWS Lambda Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Next Steps.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Next Steps.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/15. Lambda Destinations.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/15. Lambda Destinations.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/068 Cognito User Pools vs Cognito Identity Pools.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/068 Cognito User Pools vs Cognito Identity Pools.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06 - Challenge Set up a build server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06 - Challenge Set up a build server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-fast_rcnn_limitations.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-fast_rcnn_limitations.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/7. Lambda & Application Load Balancer Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/7. Lambda & Application Load Balancer Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 THANK YOU!.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 THANK YOU!.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Installing the AWS CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Installing the AWS CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. Overview of the Lambda Service.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. Overview of the Lambda Service.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/13-single_layer_perceptron_decision_boundary.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/13-single_layer_perceptron_decision_boundary.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-output_gate.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-output_gate.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/54. Step Functions Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/54. Step Functions Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. AWS Lambda Console.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. AWS Lambda Console.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07-perceptron.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07-perceptron.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-model_compilation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-model_compilation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 AWS Lambda and Serverless Framework Core Concepts.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 AWS Lambda and Serverless Framework Core Concepts.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/52. Cognito User Pools vs Cognito Identity Pools.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/52. Cognito User Pools vs Cognito Identity Pools.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07-demonstration_building_and_compiling_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07-demonstration_building_and_compiling_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/036 Lambda Layers.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/036 Lambda Layers.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-lstm_structure.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-lstm_structure.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/009 Clean up.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/009 Clean up.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Creating a Subscriber API Endpoint.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Creating a Subscriber API Endpoint.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Setting up the getQuotes End Point and Deploying the Service.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Setting up the getQuotes End Point and Deploying the Service.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/020 Lambda Permissions - IAM Roles & Resource Policies.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/020 Lambda Permissions - IAM Roles & Resource Policies.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-improving_a_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-improving_a_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0102 Scalability And Costs In The Cloud.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0102 Scalability And Costs In The Cloud.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07 - Solution Set up a build server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07 - Solution Set up a build server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/44. API Gateway CORS & Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/44. API Gateway CORS & Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/3. Functions timeout and memory.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/3. Functions timeout and memory.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-demonstration_rnn_dataset_preparation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-demonstration_rnn_dataset_preparation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05 - Create a freestyle job to deploy code from GitHub, part 2.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05 - Create a freestyle job to deploy code from GitHub, part 2.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Fetching the Function Logs from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Fetching the Function Logs from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/049 API Gateway Canary Deployments.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/049 API Gateway Canary Deployments.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Getting a Single Todo.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Getting a Single Todo.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02 - Create a key pair.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02 - Create a key pair.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01 - Plan the CICD pipeline.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01 - Plan the CICD pipeline.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/18. Lambda Environment Variables & Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/18. Lambda Environment Variables & Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Install AWS SAM CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Install AWS SAM CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0903 S3 Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0903 S3 Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-advent_of_faster_r_cnn.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-advent_of_faster_r_cnn.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05 - Solution Connect Jenkins to GitHub.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05 - Solution Connect Jenkins to GitHub.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/015 Lambda & S3 Event Notifications - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/015 Lambda & S3 Event Notifications - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0601 Setting Up A CloudFormation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0601 Setting Up A CloudFormation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/20. Lambda in VPC.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/20. Lambda in VPC.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0201 AWS Value Propositions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0201 AWS Value Propositions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/024 Lambda Monitoring & X-Ray Tracing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/024 Lambda Monitoring & X-Ray Tracing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06-demonstration_understanding_how_backpropagation_has_worked.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06-demonstration_understanding_how_backpropagation_has_worked.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/5. Lambda Synchronous Invocations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/5. Lambda Synchronous Invocations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Creating our First Step Function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Creating our First Step Function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Creating and Running Our First AWS SAM Application.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Creating and Running Our First AWS SAM Application.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07-demonstration_handwritten_digits_classification_data_preprocessing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07-demonstration_handwritten_digits_classification_data_preprocessing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-ann_types_and_applications.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-ann_types_and_applications.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08 - Solution Set up a Jenkins master server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08 - Solution Set up a Jenkins master server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03 - Solution Decommission your Jenkins servers.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03 - Solution Decommission your Jenkins servers.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07-demonstration_next_word_prediction_processing_the_corpus.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07-demonstration_next_word_prediction_processing_the_corpus.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/16. Lambda Destinations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/16. Lambda Destinations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-what_is_backpropagation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-what_is_backpropagation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-tensorflow_hub.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-tensorflow_hub.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Choice State - Full Example.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Choice State - Full Example.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/041 Lambda and CodeDeploy.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/041 Lambda and CodeDeploy.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/27. Lambda Versions and Aliases.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/27. Lambda Versions and Aliases.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Functions Timeout and Memory.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Functions Timeout and Memory.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 YAML Crash Course.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 YAML Crash Course.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05 - Configure NGINX.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05 - Configure NGINX.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/11-demonstration_building_basic_cnn_model_with_new_parameters.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/11-demonstration_building_basic_cnn_model_with_new_parameters.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/4. Thumbnail Service - Next Steps Ideas.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/4. Thumbnail Service - Next Steps Ideas.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 AWS Lambda - First Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 AWS Lambda - First Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. Course Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. Course Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-forget_gate_and_input_gate.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-forget_gate_and_input_gate.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08 - Solution Deploy to Elastic Beanstalk from GitHub.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08 - Solution Deploy to Elastic Beanstalk from GitHub.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0701 S3, RDS, And Dynamo.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0701 S3, RDS, And Dynamo.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/25. Lambda and CloudFormation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/25. Lambda and CloudFormation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/008 VPC for Lambda Functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/008 VPC for Lambda Functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Deploy the AWS SAM App to AWS Cloud.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Deploy the AWS SAM App to AWS Cloud.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-using_adam_optimizer.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-using_adam_optimizer.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08-demonstration_building_the_cnn_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08-demonstration_building_the_cnn_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0204 Roll Your Own Vs. AWS-Supplied Services.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0204 Roll Your Own Vs. AWS-Supplied Services.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/34. API Gateway Stages and Deployment Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/34. API Gateway Stages and Deployment Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/5. REST API - Next Steps Ideas.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/5. REST API - Next Steps Ideas.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 AWS Lambda Console.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 AWS Lambda Console.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-course_introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-course_introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-rnn_architecture_workflow.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-rnn_architecture_workflow.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04 - Create a freestyle job to deploy code from GitHub, part 1.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04 - Create a freestyle job to deploy code from GitHub, part 1.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/11-importance_of_epoch.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/11-importance_of_epoch.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Course Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Course Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 About your Instructor.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 About your Instructor.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/17. Lambda Permissions - IAM Roles & Resource Policies.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/17. Lambda Permissions - IAM Roles & Resource Policies.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/052 API Gateway Mapping Templates Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/052 API Gateway Mapping Templates Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02 - Create an IAM role for the build server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02 - Create an IAM role for the build server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/008 Removing the function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/008 Removing the function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0305 Templatizing Servers With AMIs.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0305 Templatizing Servers With AMIs.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/066 Cognito Identity Pools.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/066 Cognito Identity Pools.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-convolutional_layer.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-convolutional_layer.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Creating a REST API (AWS API Gateway) for Thumbnail Metadata.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Creating a REST API (AWS API Gateway) for Thumbnail Metadata.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Amazon SES Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Amazon SES Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Setting up SES the Lambda function and the Front-end & SendEmail.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Setting up SES the Lambda function and the Front-end & SendEmail.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Setting up AWS Configurations.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Setting up AWS Configurations.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 Deleting the Stack.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 Deleting the Stack.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03 - Create a GitHub repository for the application code.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03 - Create a GitHub repository for the application code.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/26. Lambda Layers.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/26. Lambda Layers.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07 - Challenge Deploy to Elastic Beanstalk from GitHub.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07 - Challenge Deploy to Elastic Beanstalk from GitHub.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Clean up.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Clean up.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Course Objectives  Who is this Course For.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Course Objectives  Who is this Course For.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-demonstration_object_detection_with_faster_rcnn_building_the_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-demonstration_object_detection_with_faster_rcnn_building_the_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0103 Cloud Impacts On Architecture.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0103 Cloud Impacts On Architecture.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 Updating the function from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 Updating the function from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02 - What you should know.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02 - What you should know.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. Implementation of Thumbnail Service - Part 1.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. Implementation of Thumbnail Service - Part 1.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06 - Configure Jenkins.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06 - Configure Jenkins.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Section Summary.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Section Summary.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Instructor Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Instructor Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06-demonstration_creating_base_variables_and_loading_the_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06-demonstration_creating_base_variables_and_loading_the_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/046 API Gateway Stages and Deployment.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/046 API Gateway Stages and Deployment.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/015 Scheduling Events with EventBridge and CouldWatchEvent (Schedule).mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/015 Scheduling Events with EventBridge and CouldWatchEvent (Schedule).mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/49. Cognito User Pools - Others.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/49. Cognito User Pools - Others.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Creating an AWS SAM Serverless Application in VS Code and AWS Toolkit.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Creating an AWS SAM Serverless Application in VS Code and AWS Toolkit.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/014 Sending Email to our Subscribers with SendGrid API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/014 Sending Email to our Subscribers with SendGrid API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. Create AWS Lambda function using any runtime.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. Create AWS Lambda function using any runtime.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/07 - Challenge Set up a Jenkins master server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/07 - Challenge Set up a Jenkins master server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 AWS Lambda Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 AWS Lambda Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/5. Updating the function from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/5. Updating the function from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Course ObjectivesWho Is this Course For.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Course ObjectivesWho Is this Course For.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01 - Next steps.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01 - Next steps.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Section Summary.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Section Summary.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. Deploying the ec2 start and stop lambda functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. Deploying the ec2 start and stop lambda functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/12-single_layer_perceptron_define_sigmoid_function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/12-single_layer_perceptron_define_sigmoid_function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/027 Lambda in VPC - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/027 Lambda in VPC - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0202 Regions And Availability Zones.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0202 Regions And Availability Zones.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 REST API - Next Steps Ideas.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 REST API - Next Steps Ideas.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/47. Cognito User Pools.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/47. Cognito User Pools.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Deploying our First Function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Deploying our First Function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 VPC for Lambda Functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 VPC for Lambda Functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/035 Lambda and CloudFormation - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/035 Lambda and CloudFormation - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/056 API Gateway Monitoring, Logging and Tracing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/056 API Gateway Monitoring, Logging and Tracing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 Removing the Function Completely.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 Removing the Function Completely.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/051 API Gateway Integration Types & Mappings.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/051 API Gateway Integration Types & Mappings.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01 - Stop or remove AWS resources.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01 - Stop or remove AWS resources.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/043 Lambda Best Practices.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/043 Lambda Best Practices.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Updating the Function from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Updating the Function from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/016 Final Thoughts - Section Summary.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/016 Final Thoughts - Section Summary.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/5. Environment Variables in AWS Lambda.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/5. Environment Variables in AWS Lambda.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/3. Implementation of Thumbnail Service - Part 2.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/3. Implementation of Thumbnail Service - Part 2.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/24. Lambda External Dependencies.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/24. Lambda External Dependencies.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03 - Create and test a webhook.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03 - Create and test a webhook.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-what_is_deep_learning.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-what_is_deep_learning.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/063 Cognito User Pools.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/063 Cognito User Pools.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Setting up SNS in Serverless YAML and Confirming Email.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Setting up SNS in Serverless YAML and Confirming Email.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/017 Lambda Event Source Mapping Hands On (SQS).mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/017 Lambda Event Source Mapping Hands On (SQS).mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 Update a Todo.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 Update a Todo.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-neural_networks.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-neural_networks.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/6. VPC for Lambda Functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/6. VPC for Lambda Functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/09-demonstration_next_word_prediction_model_compilation_and_prediction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/09-demonstration_next_word_prediction_model_compilation_and_prediction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/12. Lambda & S3 Event Notifications.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/12. Lambda & S3 Event Notifications.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/13. Lambda Event Source Mapping.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/13. Lambda Event Source Mapping.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/29. Lambda Limits.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/29. Lambda Limits.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/30. Lambda Best Practices.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/30. Lambda Best Practices.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/008 Next Steps for REST APIs.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/008 Next Steps for REST APIs.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/009 AWS Lambda@Edge Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/009 AWS Lambda@Edge Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Email Subscription Service - Architecture Walkthrough.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Email Subscription Service - Architecture Walkthrough.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/38. API Gateway Integration Types & Mappings.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/38. API Gateway Integration Types & Mappings.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0104 Creating A Cloud Account With AWS.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0104 Creating A Cloud Account With AWS.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/034 Lambda and CloudFormation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/034 Lambda and CloudFormation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/41. API Gateway Caching.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/41. API Gateway Caching.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-r_cnn_bounding_box_regression.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-r_cnn_bounding_box_regression.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-working_of_convolutional_layer.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-working_of_convolutional_layer.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/009 AWS Lambda Pricing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/009 AWS Lambda Pricing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. Next Steps.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. Next Steps.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0801 Provisioning An RDS.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0801 Provisioning An RDS.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/009 Using SNS to Publish Messages to Subscribers via the new Endpoint.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/009 Using SNS to Publish Messages to Subscribers via the new Endpoint.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Install Docker.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Install Docker.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/023 Lambda Environment Variables - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/023 Lambda Environment Variables - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01 - Create an Elastic Beanstalk application.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01 - Create an Elastic Beanstalk application.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02-rnn_architecture.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02-rnn_architecture.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03 - Create the Jenkins EC2 instance.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03 - Create the Jenkins EC2 instance.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03 - Create a security group and key pair for the build server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03 - Create a security group and key pair for the build server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/030 Lambda Concurrency.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/030 Lambda Concurrency.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/061 API Gateway Websocket API Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/061 API Gateway Websocket API Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0301 Instance Types, Security Groups, Keypairs, And User Data.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0301 Instance Types, Security Groups, Keypairs, And User Data.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08-demonstration_from_rmsprop_to_adam.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08-demonstration_from_rmsprop_to_adam.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Introduction to AWS SAM.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Introduction to AWS SAM.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/057 API Gateway CORS & Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/057 API Gateway CORS & Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/042 Lambda Limits.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/042 Lambda Limits.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/37. API Gateway Canary Deployments Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/37. API Gateway Canary Deployments Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/019 Lambda Destinations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/019 Lambda Destinations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/013 Lambda & CloudWatch Events  EventBridge Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/013 Lambda & CloudWatch Events  EventBridge Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Creating a Todo - API Endpoint - Saving a Todo Through the API End Point.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Creating a Todo - API Endpoint - Saving a Todo Through the API End Point.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 Environment Variables in AWS Lambda.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 Environment Variables in AWS Lambda.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/8. AWS Lambda@Edge Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/8. AWS Lambda@Edge Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01 - Running Jenkins on AWS.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01 - Running Jenkins on AWS.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/072 Step Functions - Error Handling Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/072 Step Functions - Error Handling Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Thumbnail Service - Next Steps Ideas.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Thumbnail Service - Next Steps Ideas.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/4. IAM Permissions for Lambda Functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/4. IAM Permissions for Lambda Functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08-demonstration_svm_as_a_classifier.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08-demonstration_svm_as_a_classifier.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/09-what_is_activation_function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/09-what_is_activation_function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/008 Setting up SNS and the Mailer Endpoint.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/008 Setting up SNS and the Mailer Endpoint.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. YAML Crash Course.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. YAML Crash Course.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/7. AWS Lambda Pricing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/7. AWS Lambda Pricing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03-visual_cortex_and_cnn.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03-visual_cortex_and_cnn.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/073 Step Functions - Standard vs Express.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/073 Step Functions - Standard vs Express.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06-demonstration_rnn_building_the_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06-demonstration_rnn_building_the_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-backpropagation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-backpropagation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Hosting the API Locally.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Hosting the API Locally.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04-pre_trained_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04-pre_trained_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Inheriting Settings from the Provider Property.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Inheriting Settings from the Provider Property.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/069 Step Functions Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/069 Step Functions Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Deploying the REST API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Deploying the REST API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 REST API with Python - Code Walkthrough.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 REST API with Python - Code Walkthrough.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Creating Thumbnail Generator Service - Setup Basics - IAM Roles.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Creating Thumbnail Generator Service - Setup Basics - IAM Roles.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 AWS Lambda Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 AWS Lambda Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Implementation of Thumbnail Service - Part 2.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Implementation of Thumbnail Service - Part 2.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06-demonstration_model_compilation_preparing_the_dataset.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06-demonstration_model_compilation_preparing_the_dataset.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/02 - Challenge Decommission your Jenkins servers.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/02 - Challenge Decommission your Jenkins servers.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/11. Lambda & CloudWatch Events  EventBridge.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/11. Lambda & CloudWatch Events  EventBridge.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0306 Snapshots, Attaching, And Detaching.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0306 Snapshots, Attaching, And Detaching.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/6. Fetching the function logs from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/6. Fetching the function logs from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Delete a Todo.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Delete a Todo.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/3. Deploying the REST API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/3. Deploying the REST API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/026 Lambda in VPC.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/026 Lambda in VPC.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 SEtting up the Email Service and Deploying It.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 SEtting up the Email Service and Deploying It.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Running the function from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Running the function from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. THANK YOU!.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. THANK YOU!.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Building the REST API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Building the REST API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/025 Lambda Monitoring & X-Ray Tracing - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/025 Lambda Monitoring & X-Ray Tracing - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 SES vs SNS.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 SES vs SNS.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Final Thoughts - Python REST API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Final Thoughts - Python REST API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/010 Lambda Asynchronous Invocations & DLQ.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/010 Lambda Asynchronous Invocations & DLQ.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01 - Plan the build environment.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01 - Plan the build environment.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/36. API Gateway Canary Deployments.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/36. API Gateway Canary Deployments.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/029 Lambda Function Performance - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/029 Lambda Function Performance - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05 - Connect the Jenkins master to the build server.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05 - Connect the Jenkins master to the build server.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/03 - What's new in this update.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/03 - What's new in this update.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Fetching the function logs from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Fetching the function logs from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0904 S3 Cmd Tool Setup And Usage.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0904 S3 Cmd Tool Setup And Usage.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/33. API Gateway Stages and Deployment.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/33. API Gateway Stages and Deployment.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/010 Final Thoughts - Section Summary.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/010 Final Thoughts - Section Summary.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Testing the REST API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Testing the REST API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. Overview of S3 Thumbnail Generator Service.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. Overview of S3 Thumbnail Generator Service.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/058 API Gateway Authentication and Authorization.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/058 API Gateway Authentication and Authorization.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 IAM Permissions for Lambda Functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 IAM Permissions for Lambda Functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/53. Step Functions Overview.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/53. Step Functions Overview.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/002 Testing and Debugging the API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/002 Testing and Debugging the API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/4. Running the function from the CLI.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/4. Running the function from the CLI.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/031 Lambda Concurrency Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/031 Lambda Concurrency Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Lambda & Application Load Balancer.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Lambda & Application Load Balancer.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 Lambda Synchronous Invocations Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 Lambda Synchronous Invocations Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06-demonstration_load_and_preprocess_the_data.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06-demonstration_load_and_preprocess_the_data.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/05-model_compilation_with_popular_frameworks.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/05-model_compilation_with_popular_frameworks.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/4. Testing the REST API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/4. Testing the REST API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Listing All Todos - API End Point.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Listing All Todos - API End Point.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-basics_of_lstm.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-basics_of_lstm.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/005 Lambda Synchronous Invocations.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/005 Lambda Synchronous Invocations.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/054 API Gateway Caching.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/054 API Gateway Caching.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/071 Step Functions - Error Handling.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/071 Step Functions - Error Handling.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/2. Course Objectives  Who is this Course For.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/2. Course Objectives  Who is this Course For.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-summary_of_deep_learning_with_rnn_and_lstm_with_model_optimization.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-summary_of_deep_learning_with_rnn_and_lstm_with_model_optimization.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06-forward_propagation.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06-forward_propagation.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/04 - Install Java, Jenkins, NGINX.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/04 - Install Java, Jenkins, NGINX.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/039 Lambda Versions and Aliases.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/039 Lambda Versions and Aliases.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Deploying SES Service and Testing.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Deploying SES Service and Testing.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Functions timeout and memory.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Functions timeout and memory.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/033 Lambda External Dependencies - Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/033 Lambda External Dependencies - Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/06-types_of_lstm.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/06-types_of_lstm.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Installing Serverless.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Installing Serverless.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/09-demonstration_handwritten_digits_classification_optimizing_the_model.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/09-demonstration_handwritten_digits_classification_optimizing_the_model.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0401 Introduction.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0401 Introduction.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/012 Setting up the SendEmail Endpoint.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/012 Setting up the SendEmail Endpoint.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 AWS Lambda Overview and Scenario.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 AWS Lambda Overview and Scenario.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0302 EBS Vs. Ephemeral.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0302 EBS Vs. Ephemeral.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/013 Set up SendEmail and getSubscriber Endpoints.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/013 Set up SendEmail and getSubscriber Endpoints.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/09-demonstration_model_accuracy.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/09-demonstration_model_accuracy.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01-machine_learning_vs_deep_learning.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01-machine_learning_vs_deep_learning.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/009 Section Summary.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/009 Section Summary.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/08-demonstration_next_word_prediction_layers.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/08-demonstration_next_word_prediction_layers.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/007 Section Summary - What We've Done.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/007 Section Summary - What We've Done.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/46. API Gateway REST API vs HTTP API vs WebSocket API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/46. API Gateway REST API vs HTTP API vs WebSocket API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/050 API Gateway Canary Deployments Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/050 API Gateway Canary Deployments Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/48. Cognito User Pools Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/48. Cognito User Pools Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/047 API Gateway Stages and Deployment Hands On.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/047 API Gateway Stages and Deployment Hands On.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/01 - Create a security group.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/01 - Create a security group.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0901 Introduction To S3.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0901 Introduction To S3.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/003 Deploying our First Function with Serverless.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/003 Deploying our First Function with Serverless.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/006 IAM Permissions for Lambda Functions.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/006 IAM Permissions for Lambda Functions.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/0203 Introduction To Service Families.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/0203 Introduction To Service Families.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/001 Creating Step Functions with AWS SAM CLI vs VS Code.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/001 Creating Step Functions with AWS SAM CLI vs VS Code.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/032 Lambda External Dependencies.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/032 Lambda External Dependencies.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/004 Wait State in Step Function.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/004 Wait State in Step Function.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/45. API Gateway Authentication and Authorization.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/45. API Gateway Authentication and Authorization.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/4. Lambda Synchronous Invocations.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/4. Lambda Synchronous Invocations.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/059 API Gateway REST API vs HTTP API vs WebSocket API.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/059 API Gateway REST API vs HTTP API vs WebSocket API.mp4"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/02_videos/cursos/1. Overview of REST API Service.mp4",
+      "destino": "/home/caenhiro/Downloads/respaldo/02_videos/otros/1. Overview of REST API Service.mp4"
+    }
+  ]
+}

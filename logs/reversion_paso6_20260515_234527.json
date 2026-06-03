@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-05-15T23:45:27.154244",
+  "paso": 6,
+  "movimientos": [
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/09_codigo/python/_trabajo/crear_csv_extraccion_2",
+      "destino": "/home/caenhiro/Downloads/INE/PREP/servicios-main (2)/servicios-main/extraccion/presidencia/crear_csv_extraccion"
+    },
+    {
+      "origen": "/home/caenhiro/Downloads/respaldo/09_codigo/python/_trabajo/crear_mapas_extraccion_2",
+      "destino": "/home/caenhiro/Downloads/INE/PREP/servicios-main (2)/servicios-main/extraccion/presidencia/crear_mapas_extraccion"
+    }
+  ]
+}
